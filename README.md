@@ -6,7 +6,7 @@
 
 [Pemasangan Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
 
-[Tutorial by Airdrop Finder] (https://github.com/bayy420-999/tutorial-testnet-exorde-airdropfinder/blob/main/README.md)
+[Tutorial by Airdrop Finder](https://github.com/bayy420-999/tutorial-testnet-exorde-airdropfinder/blob/main/README.md)
 
 ## Persyaratan perangkat keras
 
