@@ -42,11 +42,10 @@
 Jalankan perintah dibawah untuk memasang dependensi pada root
 
 ```
-apt install python3 python3-pip git screen
-pip install --upgrade pip
-apt install python3-venv
-pip install eth-account fasttext-langdetect facebook_scraper
-pip install geopy iso369
+apt install python3 python3-pip python3-venv git screen
+```
+```
+pip install --upgrade pip eth-account fasttext-langdetect facebook_scraper geopy iso369
 ```
 
 ### Unduh dan jalankan Anaconda
