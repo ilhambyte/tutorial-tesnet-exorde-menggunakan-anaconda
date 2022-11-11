@@ -56,9 +56,12 @@ bash Anaconda3-2022.10-Linux-x86_64.sh
 bash
 ```
 
-> Jika ada prompt pertanyaan ketik `yes` sampai proses pemasangan selesai
-> Setelah selesai menginstall anaconda ketik `reboot` lalu `R` untuk merestart vps
+> Jika ada prompt pertanyaan ketik `yes` sampai proses pemasangan selesai.
+
+> Setelah selesai menginstall anaconda ketik `reboot` lalu `R` untuk merestart vps.
+
 > Selanjutnya masuk ke root dan lanjut ke pengunduhan paket exorde dibawah ini:
+
 
 ### Unduh paket Exorde
 
