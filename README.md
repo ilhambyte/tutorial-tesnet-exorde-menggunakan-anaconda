@@ -66,7 +66,11 @@ bash
 ### Unduh paket Exorde
 
 ```
-git clone https://github.com/exorde-labs/ExordeModuleCLI.git
+wget https://github.com/exorde-labs/ExordeModuleCLI/archive/refs/heads/main.zip \
+--output-document=ExordeModuleCLI.zip \
+&& unzip ExordeModuleCLI.zip \
+&& rm ExordeModuleCLI.zip \
+&& mv ExordeModuleCLI-main ExordeModuleCLI
 ```
 
 ### Masuk ke folder Exorde
